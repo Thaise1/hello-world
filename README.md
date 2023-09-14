@@ -1,6 +1,11 @@
-# </h1> Lab01 - Github
+#  Lab01 - Github
+</p>
 
-# </h2> CPSC 4800: Computing for Data Analytics	
-
+# *CPSC 4800: Computing for Data Analytics*
+</p>
 
 In this lab you will get practive working with github including creating and forking a repo on github.
+
+This **is** a test
+
+*testing italic* 
